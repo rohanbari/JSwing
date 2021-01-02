@@ -2,6 +2,9 @@ package com.rohanbari.jswing;
 
 import javax.swing.*;
 
+/**
+ * The hello-world (first) program of JSwing project for newcomers.
+ */
 public class HelloSwing extends JFrame {
 
     public HelloSwing() {
